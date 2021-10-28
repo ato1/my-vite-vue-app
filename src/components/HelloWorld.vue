@@ -7,7 +7,7 @@
   <div class="desc">
     <div class="text">请访问微信小程序，搜索“豆豆笑话”</div>
     <div class="ver">
-      <a href="http://www.beian.miit.gov.cn/">京ICP备19056872号-1</a> Copyright
+      <a href="https://beian.miit.gov.cn">京ICP备19056872号-1</a> Copyright
       &copy2019 豆豆笑话 All Rights Reserved
     </div>
   </div>
